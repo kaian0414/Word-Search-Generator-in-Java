@@ -218,4 +218,4 @@ public class WordSearchGenerator {
 
 ```
 
-![image](https://github.com/kaian0414/Word-Search-Generator-in-Java/blob/main/WordSearchGenerator.png)
+![image](https://github.com/kaian0414/Word-Search-Generator-in-Java/blob/main/WordSearchGenerator_v2.png)
